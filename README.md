@@ -4,7 +4,11 @@
 MyEdu is a full-stack educational platform designed to provide a seamless learning experience. It includes a backend built with Node.js and Express, and a frontend developed using React and TailwindCSS.
 
 ---
-Deployed Link: (educational-website-platform.vercel.app)
+## 🚀 Live Demo
+
+**Deployed Link:**  
+👉 [Educational Website Platform](https://educational-website-platform.vercel.app)
+
 
 ## Table of Contents
 
