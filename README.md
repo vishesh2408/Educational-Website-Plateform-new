@@ -8,7 +8,7 @@ MyEdu is a full-stack educational platform designed to provide a seamless learni
 
 **Deployed Link:**  
 👉 [Educational Website Platform](https://educational-website-platform.vercel.app)
-//If loading then return back and reopen.
+ //If loading then close and return back and reopen.
 
 
 ## Table of Contents
